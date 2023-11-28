@@ -9,16 +9,18 @@
 
 ### 2- Display /etc/passwd file except the third line.
 
+![Uploading 2.png…]()
 
 ### 3- Display /etc/passwd file except the last line.
 
+![Uploading 3.png…]()
 
 ### 4- Display /etc/passwd file except the lines that contain the word “lp”.
 
 
 ### 5- Substitute all the words that contain “lp” with “mylp” in /etc/passwd file.
 
-![Uploading 2.png…]()
+
 
 ## Using awk utility
 ### 1- Print full name (comment) of all users in the system.
