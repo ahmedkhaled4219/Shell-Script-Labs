@@ -62,8 +62,11 @@
 ### 2. Create a script called s1 that calls another script s2 where:
 ### a. In s1 there is a variable called x, it's value 5
 ### b. Try to print the value of x in s2 by two different ways.
+
+#### The first way
 ![2 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/2ae61b6e-df06-43be-9899-d56608bf50a5)
 ![2 s2](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/7c3dda0c-0277-4c67-beb0-5280004259d5)
+#### The second way
 ![2 s1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/27953a6e-af41-4c7e-a399-edaa14e82abc)
 ![2 2](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/0ed607ca-9f09-4b01-83e6-0c989cec0a3e)
 
