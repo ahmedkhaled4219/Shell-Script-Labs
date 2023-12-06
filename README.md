@@ -107,11 +107,7 @@
 ![7 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/fdc4760b-c9d2-4727-a121-80ba83608525)
 
 
-### 8. Create a script called myinfo where:
-### a. It asks the user about his/her logname.
-### b. It print full info about files and directories in his/her home directory
-### c. Copy his/her files and directories as much as you can in /tmp directory.
-### d. Gets his current processes status.
+
 ## ................................................................................
 
 # LAB3
@@ -175,6 +171,7 @@
 ### n1=$n1+1
 ### print $n2
 ### done
+![Screenshot from 2023-12-06 19-27-58](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/954e4b15-a7b9-46d9-afdb-b05801472450)
 
 
 ### 8. Create the following menu:
