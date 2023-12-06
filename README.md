@@ -112,5 +112,106 @@
 ### b. It print full info about files and directories in his/her home directory
 ### c. Copy his/her files and directories as much as you can in /tmp directory.
 ### d. Gets his current processes status.
+## ................................................................................
+
+# LAB3
+
+### 1. Write a script called mycase, using the case utility to checks the type of character
+### entered by a user:
+### a. Upper Case.
+### b. Lower Case.
+### c. Number.
+### d. Nothing.
+![1 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/694a0b71-aac3-45c3-84b7-1bd76457b42e)
+
+![1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/405fc3de-b505-4ccc-9788-5a1fa04ea01f)
+
+### 2. Enhanced the previous script, by checking the type of string entered by a user:
+### a. Upper Cases.
+### b. Lower Cases.
+### c. Numbers.
+### d. Mix.
+### e. Nothing.
+![2 2](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/7aa195c9-b84c-4ea7-a566-abd22d6a50fc)
+
+![2](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/53026da5-2cc9-402e-887e-075ab358d8d8)
+
+### 3. Write a script called mychmod using for utility to give execute permission to all files and
+### directories in your home directory.
+![3 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/771e4265-e006-4171-90c3-8096e077432e)
+
+![3](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/e8d660b0-44f0-493e-86e8-8ad571574add)
+
+### 4. Write a script called mybackup using for utility to create a backup of only files in your
+### home directory.
+![4](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/ff41567e-4990-487d-af5f-dacdbfd8a799)
+
+![4 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/c44fe33d-39a6-4432-bbec-8175d96c3f17)
+
+
+### 5. Write a script called mymail using for utility to send a mail to all users in the system.
+### Note: write the mail body in a file called mtemplate.
+![5](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/faab31eb-0e2d-47b1-952e-cc54d82051d3)
+
+
+### 6. Write a script called chkmail to check for new mails every 10 seconds. Note: mails are
+### saved in /var/mail/username.
+
+### 7. What is the output of the following script
+### typeset –i n1
+### typeset –i n2
+### n1=1
+### n2=1
+### while test $n1 –eq $n2
+### do
+### n2=$n2+1
+### print $n1
+### if [ $n1 –gt $n2 ]
+### then
+### break
+### else
+### continue
+### fi
+### n1=$n1+1
+### print $n2
+### done
+
+
+### 8. Create the following menu:
+### a. Press 1 to ls
+### b. Press 2 to ls –a
+### c. Press 3 to exit
+### Using select utility then while utility.
+![8 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/7c5e7d23-09db-4d6d-90c9-7dee6f1f6b13)
+![8 2](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/428b4d99-526b-4332-8e94-eb3f232c388b)
+![8 3](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/e5ec0f27-90af-4615-92e0-2b0b29f78b0f)
+![8](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/d389d0d4-02b1-4281-8b04-ea5e7460d7c0)
+
+
+### 9. Write a script called myarr that ask a user how many elements he wants to enter in an
+### array, fill the array and then print it.
+![9](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/02aa551d-9b3e-4992-a34d-a0cadb815128)
+
+![9 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/7a02fd35-896e-42a1-ba5a-ea41480fd6dd)
+
+### 10.Write a script called myavg that calculate average of all numbers entered by a user.
+### Note: use arrays
+![10 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/baf71df3-528e-4980-be40-d21fa8dc4db9)
+
+![10](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/39b6d902-a7f3-4401-8d44-16f5f46ecf39)
+
+### 11.Write a function called mysq that calculate square if its argument.
+![11 1](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/9fd7e68b-7c95-40ce-a5ec-bb8dba01e226)
+
+![11](https://github.com/ahmedkhaled4219/Shell-Script-Labs/assets/146847357/47c69ba2-6bf4-4ed3-bd0a-6fa9619cad80)
+
+
+
+
+
+
+
+
+
 
 
